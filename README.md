@@ -1,0 +1,2 @@
+# SpamClassifcation
+When we look at any of our e-mail accounts, we often find that few emails are classified as spam. Similarly, some text messages that are received on the phone are also classified as spam based on a set of characteristics such as certain words, sentence formulation and so on.  In this assignment, we are going to address this problem of detecting SPAM or HAM messages with the help of Naive Bayes algorithm. Dataset contains messages with their label that classifies the messages into either ham or spam.
